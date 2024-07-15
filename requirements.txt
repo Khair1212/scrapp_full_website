@@ -1,0 +1,7 @@
+selenium==3.141.0 
+fpdf
+urllib3==1.26.16
+reportlab
+webdrivermanager
+undetected_chromedriver
+urllib
